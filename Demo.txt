@@ -1,2 +1,4 @@
 Este es el primer archivo de master
-Esto es un cambio en el branch 2    
+Cambio 1 Master
+Cambio Rama 1
+Esto es un cambio en el branch 2  
