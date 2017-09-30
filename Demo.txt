@@ -1,4 +1,5 @@
 Este es el primer archivo de master
 Cambio 1 Master
 Cambio Rama 1
-Esto es un cambio en el branch 2  
+Esto es un cambio en el branch 2
+Cambio 2 Rama 1
